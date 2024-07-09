@@ -9,8 +9,9 @@ const urlsToCache = [
   "/StartOvermain.js",
   "/StartOvermanifest.json",
   "/images/favicon-32x32.png",
-  "/images/icon-192x192.png",
-  "/images/icon-512x512.png",
+  "/images/apple-touch-icon.png",
+  "/images/android-chrome-192x192.png",
+  "/images/android-chrome-512x512.png",
 ];
 
 // Install event: Add resources to cache
