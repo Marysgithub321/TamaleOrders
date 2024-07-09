@@ -1,13 +1,13 @@
 // Define a unique cache name
-const CACHE_NAME = "tamale-orders-cache-v1";
+const CACHE_NAME = "Start-Over-Tamale-Order-cache-v1";
 
 // List of resources to be cached
 const urlsToCache = [
   "/",
-  "/index.html",
-  "/styles.css",
-  "/main.js",
-  "/manifest.json",
+  "/StartOverIndex.html",
+  "/StartOverstyles.css",
+  "/StartOvermain.js",
+  "/StartOvermanifest.json",
   "/images/favicon-32x32.png",
   "/images/icon-192x192.png",
   "/images/icon-512x512.png",
